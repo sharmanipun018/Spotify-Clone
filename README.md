@@ -35,7 +35,7 @@ index.html: Main web page
 
 style.css: Main stylesheet
 
-assets/images: All image assets (add your images here)
+assets/images: All image assets 
 
 🌱 Getting Started
 Clone the repo:
